@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Cписок (задач/покупок)</string>
+    <string name="title_alert_new_task">Новая задача</string>
+    <string name="title_alert_edit_task">Редактировать задачу</string>
+    <string name="priority">Приоритет</string>
+    <string name="taskDB">Задача</string>
+    <string name="date">Дата</string>
+    <string name="prioritet">Приоритет: </string>
+    <string name="time">Время </string>
+    <string name="set_alatrm">Включить \nуведомления </string>
+    <string name="hint_date">дд.мм.гггг</string>
+    <string name="hint_time">чч:мм</string>
+    <string name="ok_fragment">Сохранить</string>
+    <string name="cansek_fragment">Отмена</string>
+    <string name="title_fragment">Новая задача</string>
+    <string name="hint_task_fragment">Нужно ввести имя задачи</string>
+    <string name="default_date_task">Планируемая дата не указана</string>
+    <string name="sort_fragment_title">Выбрать сортировку задач</string>
+    <string name="text_first_add_task">Для удаления задачи, смахните задачу влево</string>
+    <string name="type_sort_label">Список отсортрован: %1$s </string>
+    <string-array name="type_sort">
+        <item>По умолчанию</item>
+        <item>По дате</item>
+        <item>По исполнению</item>
+        <item>По приоритету</item>
+    </string-array>
+    <string-array name="alarm_before">
+        <item>вовремя</item>
+        <item>за 15 мин</item>
+        <item>за 30 мин</item>
+        <item>за 1 час</item>
+    </string-array>
+    <string name="notif_chanel">Канал уведомления о задачах</string>
+    <string name="notif_title">У Вас запланирована задача!</string>
+    <string name="error_set_alarm">Напоминание не может быть установленно в прошлом, измените дату и время</string>
+</resources>
